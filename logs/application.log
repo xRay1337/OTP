@@ -1,0 +1,21 @@
+11:55:34.353 INFO  [main] org.example.App - Запуск приложения
+11:56:26.143 INFO  [main] org.example.App - Запуск приложения
+11:56:30.318 INFO  [main] org.example.App - Остановка приложения
+11:56:45.659 INFO  [main] org.example.App - Запуск приложения
+11:56:51.330 INFO  [main] org.example.App - Вход user подтверждён.
+11:57:01.106 INFO  [main] org.example.App - Использован код: 182111
+11:57:10.859 WARN  [main] org.example.App - Неверный логин/пароль: user
+11:59:24.874 ERROR [main] org.example.App - Ошибка ввода/вывода при отправке бэкенду
+15:09:32.324 INFO  [main] org.example.App - Запуск приложения
+15:09:37.527 INFO  [main] org.example.App - Вход admin подтверждён.
+15:09:50.062 INFO  [main] org.example.App - timeout = 35
+15:19:14.671 INFO  [main] org.example.App - Вход user подтверждён.
+15:27:47.321 INFO  [main] org.example.App - Запуск приложения
+15:27:51.230 INFO  [main] org.example.App - Вход user подтверждён.
+15:27:58.136 INFO  [main] org.example.App - Использован код: 293784
+16:11:24.685 INFO  [main] org.example.App - Запуск приложения
+16:11:28.612 INFO  [main] org.example.App - Вход user подтверждён.
+16:12:00.692 INFO  [main] org.example.App - Использован код: 863404
+16:12:04.999 INFO  [main] org.example.App - Вход user подтверждён.
+16:12:50.287 INFO  [main] org.example.App - Запуск приложения
+16:12:56.680 INFO  [main] org.example.App - Вход user подтверждён.
